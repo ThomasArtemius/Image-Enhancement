@@ -1,4 +1,5 @@
 # Image Enhancement
+## Median Filter
 Remove noise from image\
 ![](https://github.com/ThomasArtemius/Image-Enhancement/blob/main/noisy_charlie_chaplin.png)
 ## Process
